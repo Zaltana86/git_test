@@ -6,4 +6,7 @@ package com.ivx;
  */
 
 public class xndedlam {
+    public static void main(String[] args) {
+
+    }
 }

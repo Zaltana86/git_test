@@ -16,7 +16,4 @@ public class SimpleTest {
     }
     // 继续开发
 
-    错误代码
-    private String a; // 正确代码
-    那你？？
 }

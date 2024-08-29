@@ -15,4 +15,5 @@ public class SimpleTest {
         System.out.println(1);
     }
     错误代码
+    private String a; // 正确代码
 }

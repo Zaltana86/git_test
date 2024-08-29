@@ -14,6 +14,5 @@ public class SimpleTest {
     public void test1() {
         System.out.println(1);
     }
-    // 继续开发
 
 }
